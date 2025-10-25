@@ -6,7 +6,6 @@
 ## Introduction
 
 In-training professional with an interest in technology and the development of efficient solutions.
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - 👨‍💻 Currently pursuing a Bachelor's degree in Computer Science.
 - 📚 Always seeking to learn and improve every day.
 - 🤝 I value collaboration, organization, and continuous feedback.
